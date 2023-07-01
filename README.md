@@ -1,14 +1,14 @@
 
-# Loyalfriend - Web Application
+# HappyTails - Web Application
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-The main purpose of this project is to automate the process of serving towards the welfare of the pets by giving the abandoned pets a place  of        shelter to live in, care them with affection through our portal. 
+The main purpose of this project is to automate the process of serving the welfare of the pets by giving the abandoned pets a place of shelter to live in, and care for them with affection through our portal. 
 
 
 
 ## Appendix
 
-Focusing on the audiences who want to adopt any pet like dog, cat will get the information and contact details about the welfare near them. We have added many enticing modules and segments in our web application to allure the visitors and leads them to adopt their dream pets. 
+Focusing on the audiences who want to adopt any pet like a dog, or cat will get the information and contact details about the welfare near them. We have added many enticing modules and segments in our web application to allure visitors and lead them to adopt their dream pets. 
 
 
   
@@ -29,7 +29,7 @@ Please adhere to this project's `code of conduct`.
 - Login/SignUp modules
 - Live previews
 - Fullscreen mode
-- Cross platform
+- Cross-platform
 - Password Hashing
 - Interactive UI
   
@@ -44,7 +44,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd LoyalFriend
+  cd Happy-Tails
 ```
 
 Install dependencies
