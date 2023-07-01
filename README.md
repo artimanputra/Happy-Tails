@@ -1,6 +1,5 @@
 
 # HappyTails - Web Application
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 The main purpose of this project is to automate the process of serving the welfare of the pets by giving the abandoned pets a place of shelter to live in, and care for them with affection through our portal. 
 
@@ -14,7 +13,7 @@ Focusing on the audiences who want to adopt any pet like a dog, or cat will get 
   
 ## Author
 
-- [@anshulhub](https://www.github.com/anshulhub)
+- [@artimanputra](https://www.github.com/artimanputra)
 
   
 ## Contributing
